@@ -1,3 +1,4 @@
+
 html,
 body,
 #root {
@@ -12,4 +13,6 @@ body,
 
 body {
   font-family: Arial, Helvetica, sans-serif;
+  background: #f1f8f2;
+  color: #172033;
 }

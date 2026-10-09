@@ -98,7 +98,7 @@ function Register() {
       <div className="auth-card">
 
         <div className="library-icon">
-          📚
+          
         </div>
 
         <h1>

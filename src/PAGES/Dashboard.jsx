@@ -51,19 +51,19 @@ function Dashboard() {
         <div className="dashboard-grid">
 
           <div className="stat-card">
-            <span>📚</span>
+            <span></span>
             <h3>Total Books</h3>
             <strong>{totalCopies}</strong>
           </div>
 
           <div className="stat-card">
-            <span>✅</span>
+            <span></span>
             <h3>Available Books</h3>
             <strong>{availableCopies}</strong>
           </div>
 
           <div className="stat-card">
-            <span>📖</span>
+            <span></span>
             <h3>My Borrowed Books</h3>
             <strong>
               {myBorrowedBooks.length}
@@ -112,7 +112,7 @@ function Dashboard() {
         <div className="dashboard-grid">
 
           <div className="stat-card">
-            <span>📚</span>
+            <span></span>
             <h3>Book Titles</h3>
             <strong>
               {books.length}
@@ -120,7 +120,7 @@ function Dashboard() {
           </div>
 
           <div className="stat-card">
-            <span>📦</span>
+            <span></span>
             <h3>Total Copies</h3>
             <strong>
               {totalCopies}
@@ -128,7 +128,7 @@ function Dashboard() {
           </div>
 
           <div className="stat-card">
-            <span>✅</span>
+            <span></span>
             <h3>Available Copies</h3>
             <strong>
               {availableCopies}

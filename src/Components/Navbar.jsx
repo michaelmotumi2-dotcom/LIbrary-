@@ -23,7 +23,7 @@ function Navbar() {
     <nav className="navbar">
 
       <div className="brand">
-        📚 Community Library
+        Community Library
       </div>
 
       <div className="nav-links">
